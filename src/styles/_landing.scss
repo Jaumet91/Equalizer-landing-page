@@ -1,0 +1,36 @@
+* {
+  margin: 0px;
+  padding: 0px;
+}
+
+#container {
+  margin: 0px auto 0px auto;
+  max-width: 1440px;
+  overflow: hidden;
+  position: relative;
+}
+
+.oval-img {
+  &-flesh {
+    position: absolute;
+    top: -8%;
+    left: -18%;
+  }
+
+  &-green {
+    position: absolute;
+    right: 0%;
+  }
+
+  &-orange {
+    position: absolute;
+    right: 0%;
+    top: 12%;
+  }
+
+  &-flesh-2 {
+    position: absolute;
+    top: 66%;
+    left: 69%;
+  }
+}

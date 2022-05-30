@@ -1,0 +1,37 @@
+// Fonts
+@font-face {
+  font-family: 'IBMPlexSans-Regular';
+  src: url('./fonts/IBMPlexSans-Regular.ttf');
+}
+
+@font-face {
+  font-family: 'IBMPlexSans-Bold';
+  src: url('./fonts/IBMPlexSans-Bold.ttf');
+}
+
+@font-face {
+  font-family: 'IBMPlexSans-SemiBold';
+  src: url('./fonts/IBMPlexSans-SemiBold.ttf');
+}
+
+@font-face {
+  font-family: 'IBMPlexSans-Light';
+  src: url('./fonts/IBMPlexSans-Light.ttf');
+}
+
+@font-face {
+  font-family: 'IBMPlexSans-ExtraLight';
+  src: url('./fonts/IBMPlexSans-ExtraLight.ttf');
+}
+
+$fsH1: 88px;
+$fsH2: 40px;
+$fsBody1: 20px;
+$fsBody2: 16px;
+
+// Colors
+$cyan: #66e2dc;
+$orange: #fa7453;
+$sand: #ffb964;
+$gray-white: #fcfaf9;
+$dark: #191826;
