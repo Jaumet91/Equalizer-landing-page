@@ -25,14 +25,14 @@ Users should be able to:
 
 ### Screenshots
 
-![](./screenshot-desktop)
-![](./screenshot_tablet.jpg)
-![](./screenshot_mobile.jpg)
+![](./screenshot-desktop.png)
+![](./screenshot_tablet.png)
+![](./screenshot_mobile.png)
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Solution URL: [Add solution URL here](https://github.com/Jaumet91/Equalizer-landing-page)
+- Live Site URL: [Add live site URL here](https://jaumet91.github.io/Equalizer-landing-page/)
 
 ## My process
 
