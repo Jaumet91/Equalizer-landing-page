@@ -7,9 +7,9 @@ import './styles/style.css';
 
 export const Landing = () => {
   return (
-    <div className='App' id='container'>
-      <BackgroundImages />
+    <div id='container'>
       <Header />
+      <BackgroundImages />
       <Section />
       <Footer />
     </div>
