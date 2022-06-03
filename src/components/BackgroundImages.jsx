@@ -2,7 +2,7 @@ import { images } from '../helpers/images';
 
 export const BackgroundImages = () => {
   return (
-    <>
+    <div className='background'>
       <img
         className='oval-img-flesh'
         src={images('./oval-flesh.png')}
@@ -27,6 +27,6 @@ export const BackgroundImages = () => {
         alt='oval-flesh-2'
         title='oval-flesh-2'
       />
-    </>
+    </div>
   );
 };

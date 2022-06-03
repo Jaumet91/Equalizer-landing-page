@@ -2,7 +2,7 @@ import { images } from '../helpers/images';
 
 export const Section = () => {
   return (
-    <section className='section'>
+    <main className='section'>
       <div className='div-illustration'>
         <img
           className='illustration'
@@ -20,7 +20,7 @@ export const Section = () => {
           title='bg-pattern-2'
         />
       </div>
-      <div className='div-article'>
+      <section className='div-article'>
         <article className='article'>
           <h2>Premium EQ</h2>
           <p>
@@ -57,7 +57,7 @@ export const Section = () => {
             </div>
           </div>
         </article>
-      </div>
-    </section>
+      </section>
+    </main>
   );
 };
