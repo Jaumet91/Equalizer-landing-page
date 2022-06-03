@@ -22,6 +22,7 @@ export const Footer = () => {
         <a
           href='https://es-es.facebook.com/'
           target='_blank'
+          aria-label='Facebook App'
           rel='noreferrer'
           className='icons'
         >
@@ -33,6 +34,7 @@ export const Footer = () => {
         <a
           href='https://www.instagram.com/'
           target='_blank'
+          aria-label='Instagram App'
           rel='noreferrer'
           className='icons'
         >
@@ -44,6 +46,7 @@ export const Footer = () => {
         <a
           href='https://twitter.com/'
           target='_blank'
+          aria-label='Twitter App'
           rel='noreferrer'
           className='icons'
         >

@@ -20,8 +20,8 @@ export const Section = () => {
           title='bg-pattern-2'
         />
       </div>
-      <section className='div-article'>
-        <article className='article'>
+      <div className='div-article'>
+        <section className='article'>
           <h2>Premium EQ</h2>
           <p>
             Get expert-level control with a robust equalizer, volume mixer, and
@@ -56,8 +56,8 @@ export const Section = () => {
               </button>
             </div>
           </div>
-        </article>
-      </section>
+        </section>
+      </div>
     </main>
   );
 };
