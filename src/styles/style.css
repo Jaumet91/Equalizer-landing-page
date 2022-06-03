@@ -130,8 +130,8 @@
 .section .div-article .article {
   color: white;
   padding-top: 55px;
-  padding-left: 55px;
-  padding-right: 55px;
+  padding-left: 48px;
+  padding-right: 48px;
   padding-bottom: 55px;
   position: absolute;
   top: 15%;
@@ -347,7 +347,7 @@
   .section .div-article .article {
     padding-top: 47px;
     padding-left: 42px;
-    padding-right: 42px;
+    padding-right: 10px;
     padding-bottom: 55px;
     top: 25%;
     bottom: -15%;

@@ -8,8 +8,8 @@ import './styles/style.css';
 export const Landing = () => {
   return (
     <div id='container'>
-      <Header />
       <BackgroundImages />
+      <Header />
       <Section />
       <Footer />
     </div>
